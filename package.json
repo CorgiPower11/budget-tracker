@@ -26,6 +26,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "webpack-dev-server": "^4.9.0"
+    "webpack-dev-server": "^4.9.0",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
